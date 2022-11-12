@@ -22,5 +22,5 @@
 ## 🔖 Chapter List
 
 > **1장 : 들어가기** <br>
-- [1주차테스트]()
+- [링크테스트](https://github.com/poonghyeok/This-is-java-online-study/blob/main/src/chpater01/poonghyeok/ch1_poonghyeok.md)
 
